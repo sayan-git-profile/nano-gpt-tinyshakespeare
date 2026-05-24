@@ -1,2 +1,2 @@
 # nano-gpt-tinyshakespeare
-Based on Andrej Karpathy's lecture on the topic of GPTs. 
+A re-creation of Andrej Karpathy's lecture on creating a GPT (Generatively Pre-Trained Transformer) based model from scratch. This model is trained on the Tiny_Shakespeare dataset (containing all of Shakespeare's combined works). Hyperparameters were selected to achieve the best results on the system this program was created upon, accuracy can be further improved on a more capable system. 
